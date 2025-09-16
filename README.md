@@ -12,10 +12,6 @@ Some insights explored in this project:
 - Content released over the years  
 - Country-wise distribution  
 
-<p align="center">
-  <img src="outputs/sample_plot1.png" alt="Netflix Visualization" width="500"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
